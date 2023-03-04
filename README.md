@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/ariapahlavan/simple-node.svg?branch=main)](https://app.travis-ci.com/ariapahlavan/simple-node)
+
 # Simple Node
 
 ## Overview
